@@ -6,7 +6,7 @@ Racing Panel is an Elder Scrolls Online calibrated speedometer Addon.
 
 > When Racing Panel is installed, please go into your controls and set a hot-key for the Settings Panel. Racing Panel has its own section in the keybinding pages. The default for the settings Panel is UP (up-arrow). The Settings Panel is a popup panel so it can be easily brought up for changes while riding or racing.
 
-Racing Panel provides a digital readout of your character's current speed, in miles per hour (mph), kilometers per hour (kph) or meters per second (m/s). This speedometer can be placed at the edge of your screen for questing, or in the bottom center of your screen for racing. Racing panel also provides a graphical quick-glance speed indicator, a graphical remaining-stamina indicator for both foot or mounted stamina, graphical Major Expedition and Major Gallop remaining-buff displays, and a graphical Minor Expedition display.
+Racing Panel provides a digital readout of your character's current speed, in miles per hour (mph), kilometers per hour (kph) or meters per second (m/s). This speedometer can be placed at the edge of your screen for questing, or in the bottom center of your screen for racing, or anywhere on your screen. Racing panel also provides a graphical quick-glance speed indicator, a graphical remaining-stamina indicator for both foot or mounted stamina, graphical Major Expedition and Major Gallop remaining-buff displays, and a graphical Minor Expedition display.
 
 You can enable Racing Panel while on foot, while mounted, or both or neither. You can arrange and display all, some, or none of Racing Panel's indicators, per character. Racing Panel will remember your settings.
 
